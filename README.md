@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 👋
 
-<!--
+
 **no-deliberately/no-deliberately** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at SUFE.
+- 🌱 I’m currently learning learning theory and STATs.
+- 👯 I’m looking to collaborate on pragmatic project.
+- 🤔 I’m looking for help with a better academic path.
+- 💬 Ask me about who I am.
+- 📫 How to reach me: Praying to god.
+- 😄 Pronouns: 贝贝
+- ⚡ Fun fact: Ideally I'm longing for a self-disciplined ego.
+
